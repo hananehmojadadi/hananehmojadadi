@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Hananeh Mojaddedi
+# 👋 Hi, I'm Hananeh Mojadadi
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=F78C6C&center=true&vCenter=true&width=700&lines=UX%2FUI+Designer;Graphic+Designer;Front-End+Developer;Future+Data+Analyst;Computer+Science+Student" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=F78C6C&center=true&vCenter=true&width=700&lines=Front-End+Developer;Graphic+Designer;UX%2FUI+Designer;Data+Analyst;Computer+Science+Student" />
 </p>
 
 <p align="center">
@@ -54,9 +54,13 @@ build responsive websites, and analyze data to discover meaningful insights.
 
 ---
 
-## 🛠 Design Tools
+## ⚡ Tech Stack & Design Tools
 
 Figma • Photoshop • Illustrator • InDesign  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,python,mongodb,mysql,git,github,figma,graphql,photoshop,illustrator,indesign" />
+</p>
 
 ---
 
@@ -78,9 +82,8 @@ Figma • Photoshop • Illustrator • InDesign
 
 ## 🚀 2026 Goals
 
-✨ Master Front-End Development  
-✨ Become a Professional UX/UI Designer  
-✨ Grow as a Data Analyst  
+✨ Become a Professional Full-Stack Developer  
+✨ Master Data Analysis  
 ✨ Contribute to Open Source  
 
 ---
