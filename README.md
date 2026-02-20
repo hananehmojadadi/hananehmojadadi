@@ -54,13 +54,9 @@ build responsive websites, and analyze data to discover meaningful insights.
 
 ---
 
-## ⚡ Tech Stack & Design Tools
+## ⚡ Design Tools
 
 Figma • Photoshop • Illustrator • InDesign  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,python,mongodb,mysql,git,github,figma,graphql,photoshop,illustrator,indesign" />
-</p>
 
 ---
 
