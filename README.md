@@ -86,19 +86,28 @@ Figma • Photoshop • Illustrator • InDesign
 
 ## 📫 Connect With Me
 
-<p align="center">
+<p align="center" style="line-height:2.5;">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/hananeh-mojadadi-455b44344" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn" />
   </a>
-  &nbsp;
-  <a href="https://hananehportfolio.netlify.app/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=portfolio" width="40" alt="Portfolio" />
+  &nbsp;&nbsp;&nbsp;
+  <!-- GitHub -->
+  <a href="https://github.com/hananehmojadadi" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;
+  <!-- Email -->
   <a href="mailto:hananah2003@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Email" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="50" alt="Email" />
   </a>
-</p>>
+</p>
+
+<p align="center" style="margin-top:10px;">
+  🌐 Portfolio: <a href="https://hananehportfolio.netlify.app/" target="_blank">hananehportfolio.netlify.app</a>  
+  <br>
+  ✉️ Email: <a href="mailto:hananah2003@gmail.com">hananah2003@gmail.com</a>
+</p>
 
 ---
 
