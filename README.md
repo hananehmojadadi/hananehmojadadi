@@ -88,13 +88,17 @@ Figma • Photoshop • Illustrator • InDesign
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hananeh-mojadadi-455b44344" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://hananehportfolio.netlify.app/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=portfolio" width="40" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="mailto:hananah2003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Email" />
   </a>
-</p>
+</p>>
 
 ---
 
