@@ -9,11 +9,18 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      # ✅ این مرحله رو اضافه کن
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GH_PAT }}
+
       - uses: Platane/snk@v3
         with:
           github_user_name: hananehmojadadi
           outputs: |
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
