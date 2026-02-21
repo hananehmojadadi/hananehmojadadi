@@ -10,8 +10,6 @@
   <img src="https://komarev.com/ghpvc/?username=hananehmojadadi&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
 
----
-
 ## 💫 About Me
 
 🎓 Computer Science Student  
@@ -22,7 +20,6 @@
 I combine creativity and technology to design beautiful interfaces,  
 build responsive websites, and analyze data to discover meaningful insights.
 
----
 
 ## ⚡ Tech Stack
 
@@ -30,15 +27,12 @@ build responsive websites, and analyze data to discover meaningful insights.
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,python,mongodb,mysql,git,github,figma" />
 </p>
 
----
 
 ## 🐍 GitHub Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/hananehmojadadi/hananehmojadadi/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
-
----
 
 ## 🎨 Graphic Design Skills
 
@@ -47,8 +41,6 @@ build responsive websites, and analyze data to discover meaningful insights.
 - 🏷 Branding  
 - 🔤 Typography  
 - 📐 Layout Design  
-
----
 
 ## 📊 Data & Analytics
 
@@ -61,23 +53,17 @@ build responsive websites, and analyze data to discover meaningful insights.
 - 🖌 Data Visualization  
 - 🧹 Data Cleaning  
 
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=hananehmojadadi&theme=tokyonight" />
 </p>
 
----
-
 ## 🚀 2026 Goals
 
 ✨ Become a Professional Full-Stack Developer  
 ✨ Master Data Analysis  
 ✨ Contribute to Open Source  
-
----
 
 ## 📫 Connect With Me
 
