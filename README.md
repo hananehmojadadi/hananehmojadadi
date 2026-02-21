@@ -30,7 +30,7 @@ build responsive websites, and analyze data to discover meaningful insights.
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,python,mongodb,mysql,git,github,figma" />
 </p>
 
-<hr style="border: 0.5px solid #ccc" />
+
 
 ## 🎨 Graphic Design Skills
 
@@ -51,14 +51,6 @@ build responsive websites, and analyze data to discover meaningful insights.
 - Excel  
 - Data Visualization  
 - Data Cleaning  
-
-<hr style="border: 0.5px solid #ccc" />
-
-## ⚡ Design Tools
-
-Figma • Photoshop • Illustrator • InDesign  
-
-<hr style="border: 0.5px solid #ccc" />
 
 ## 📈 GitHub Stats
 
@@ -82,7 +74,6 @@ Figma • Photoshop • Illustrator • InDesign
   <img src="https://raw.githubusercontent.com/hananehmojadadi/hananehmojadadi/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-<hr style="border: 0.5px solid #ccc" />
 
 ## 🚀 2026 Goals
 
@@ -90,7 +81,6 @@ Figma • Photoshop • Illustrator • InDesign
 ✨ Master Data Analysis  
 ✨ Contribute to Open Source  
 
-<hr style="border: 0.5px solid #ccc" />
 
 ## 📫 Connect With Me
 
