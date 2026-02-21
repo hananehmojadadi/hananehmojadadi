@@ -30,7 +30,11 @@ build responsive websites, and analyze data to discover meaningful insights.
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,python,mongodb,mysql,git,github,figma" />
 </p>
 
+## 🐍 Contribution Snake
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hananehmojadadi/hananehmojadadi/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ## 🎨 Graphic Design Skills
 
@@ -52,13 +56,6 @@ build responsive websites, and analyze data to discover meaningful insights.
 - Data Visualization  
 - Data Cleaning  
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hananehmojadadi&show_icons=true&theme=tokyonight" />
-</p>
-
-<hr style="border: 0.5px solid #ccc" />
 
 ## 🔥 GitHub Streak
 
@@ -67,13 +64,6 @@ build responsive websites, and analyze data to discover meaningful insights.
 </p>
 
 <hr style="border: 0.5px solid #ccc" />
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hananehmojadadi/hananehmojadadi/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
 
 ## 🚀 2026 Goals
 
