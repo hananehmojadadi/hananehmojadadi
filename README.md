@@ -1,7 +1,9 @@
-# 👋 Hi, I'm Hananeh Mojadadi
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F78C6C,100:7F00FF&height=120&section=header&text=Hi%20👋,%20I'm%20Hananeh%20Mojadadi&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=F78C6C&center=true&vCenter=true&width=700&lines=Front-End+Developer;Graphic+Designer;UX%2FUI+Designer;Data+Analyst;Computer+Science+Student" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=2500&color=F78C6C&center=true&vCenter=true&width=800&lines=Front-End+Developer;Graphic+Designer;UX%2FUI+Designer;Data+Analyst;Computer+Science+Student" />
 </p>
 
 <p align="center">
@@ -76,6 +78,14 @@ Figma • Photoshop • Illustrator • InDesign
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hananehmojadadi/hananehmojadadi/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
 ## 🚀 2026 Goals
 
 ✨ Become a Professional Full-Stack Developer  
@@ -86,27 +96,24 @@ Figma • Photoshop • Illustrator • InDesign
 
 ## 📫 Connect With Me
 
-<p align="center" style="line-height:2.5;">
-  <!-- LinkedIn -->
+<p align="center">
   <a href="https://www.linkedin.com/in/hananeh-mojadadi-455b44344" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="60" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <!-- GitHub -->
   <a href="https://github.com/hananehmojadadi" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub" />
+    <img src="https://skillicons.dev/icons?i=github" width="60" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <!-- Email -->
   <a href="mailto:hananah2003@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="50" alt="Email" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="60" />
   </a>
 </p>
 
-<p align="center" style="margin-top:10px;">
-  🌐 Portfolio: <a href="https://hananehportfolio.netlify.app/" target="_blank">hananehportfolio.netlify.app</a>  
+<p align="center">
+  🌐 <a href="https://hananehportfolio.netlify.app/" target="_blank">hananehportfolio.netlify.app</a>  
   <br>
-  ✉️ Email: <a href="mailto:hananah2003@gmail.com">hananah2003@gmail.com</a>
+  ✉️ <a href="mailto:hananah2003@gmail.com">hananah2003@gmail.com</a>
 </p>
 
 ---
