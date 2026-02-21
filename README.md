@@ -34,25 +34,6 @@ build responsive websites, and analyze data to discover meaningful insights.
   <img src="https://raw.githubusercontent.com/hananehmojadadi/hananehmojadadi/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
 
-## 🎨 Graphic Design Skills
-
-- 🎨 Social Media Design  
-- 🖼 Poster & Banner Design  
-- 🏷 Branding  
-- 🔤 Typography  
-- 📐 Layout Design  
-
-## 📊 Data & Analytics
-
-- 🐍 Python  
-- 💾 SQL  
-- 🐼 Pandas  
-- 🔢 NumPy  
-- 📊 Matplotlib  
-- 📈 Excel  
-- 🖌 Data Visualization  
-- 🧹 Data Cleaning  
-
 ## 🔥 GitHub Streak
 
 <p align="center">
