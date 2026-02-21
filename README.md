@@ -10,7 +10,6 @@
   <img src="https://komarev.com/ghpvc/?username=hananehmojadadi&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
 
-<hr style="border: 0.5px solid #ccc" />
 
 ## 💫 About Me
 
@@ -23,6 +22,14 @@
 I combine creativity and technology to design beautiful interfaces,  
 build responsive websites, and analyze data to discover meaningful insights.
 
+
+
+## ⚡ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,python,mongodb,mysql,git,github,figma" />
+</p>
+
 <hr style="border: 0.5px solid #ccc" />
 
 ## 🎨 Graphic Design Skills
@@ -33,15 +40,6 @@ build responsive websites, and analyze data to discover meaningful insights.
 - Typography  
 - Layout Design  
 
-<hr style="border: 0.5px solid #ccc" />
-
-## ⚡ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,python,mongodb,mysql,git,github,figma" />
-</p>
-
-<hr style="border: 0.5px solid #ccc" />
 
 ## 📊 Data & Analytics
 
