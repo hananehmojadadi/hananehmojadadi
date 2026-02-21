@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=hananehmojadadi&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
 
----
+<hr style="border: 0.5px solid #ccc" />
 
 ## 💫 About Me
 
@@ -23,7 +23,7 @@
 I combine creativity and technology to design beautiful interfaces,  
 build responsive websites, and analyze data to discover meaningful insights.
 
----
+<hr style="border: 0.5px solid #ccc" />
 
 ## 🎨 Graphic Design Skills
 
@@ -33,7 +33,7 @@ build responsive websites, and analyze data to discover meaningful insights.
 - Typography  
 - Layout Design  
 
----
+<hr style="border: 0.5px solid #ccc" />
 
 ## ⚡ Tech Stack
 
@@ -41,7 +41,7 @@ build responsive websites, and analyze data to discover meaningful insights.
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,python,mongodb,mysql,git,github,figma" />
 </p>
 
----
+<hr style="border: 0.5px solid #ccc" />
 
 ## 📊 Data & Analytics
 
@@ -54,13 +54,13 @@ build responsive websites, and analyze data to discover meaningful insights.
 - Data Visualization  
 - Data Cleaning  
 
----
+<hr style="border: 0.5px solid #ccc" />
 
 ## ⚡ Design Tools
 
 Figma • Photoshop • Illustrator • InDesign  
 
----
+<hr style="border: 0.5px solid #ccc" />
 
 ## 📈 GitHub Stats
 
@@ -68,7 +68,7 @@ Figma • Photoshop • Illustrator • InDesign
   <img src="https://github-readme-stats.vercel.app/api?username=hananehmojadadi&show_icons=true&theme=tokyonight" />
 </p>
 
----
+<hr style="border: 0.5px solid #ccc" />
 
 ## 🔥 GitHub Streak
 
@@ -76,7 +76,7 @@ Figma • Photoshop • Illustrator • InDesign
   <img src="https://streak-stats.demolab.com?user=hananehmojadadi&theme=tokyonight" />
 </p>
 
----
+<hr style="border: 0.5px solid #ccc" />
 
 ## 🐍 Contribution Snake
 
@@ -84,7 +84,7 @@ Figma • Photoshop • Illustrator • InDesign
   <img src="https://raw.githubusercontent.com/hananehmojadadi/hananehmojadadi/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
----
+<hr style="border: 0.5px solid #ccc" />
 
 ## 🚀 2026 Goals
 
@@ -92,7 +92,7 @@ Figma • Photoshop • Illustrator • InDesign
 ✨ Master Data Analysis  
 ✨ Contribute to Open Source  
 
----
+<hr style="border: 0.5px solid #ccc" />
 
 ## 📫 Connect With Me
 
@@ -116,7 +116,7 @@ Figma • Photoshop • Illustrator • InDesign
   ✉️ <a href="mailto:hananah2003@gmail.com">hananah2003@gmail.com</a>
 </p>
 
----
+<hr style="border: 0.5px solid #ccc" />
 
 <p align="center">
   💜 Thanks for visiting my profile 💜
