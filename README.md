@@ -10,6 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=hananehmojadadi&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
 
+---
 
 ## 💫 About Me
 
@@ -17,12 +18,11 @@
 🎨 UX/UI & Graphic Designer  
 💻 Front-End Developer  
 📊 Learning Data Analysis  
-🌍 Afghan Girl in Tech | CodeToInspire  
 
 I combine creativity and technology to design beautiful interfaces,  
 build responsive websites, and analyze data to discover meaningful insights.
 
-
+---
 
 ## ⚡ Tech Stack
 
@@ -30,32 +30,38 @@ build responsive websites, and analyze data to discover meaningful insights.
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,python,mongodb,mysql,git,github,figma" />
 </p>
 
-## 🐍 Contribution Snake
+---
+
+## 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hananehmojadadi/hananehmojadadi/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/hananehmojadadi/hananehmojadadi/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
+
+---
 
 ## 🎨 Graphic Design Skills
 
-- Social Media Design  
-- Poster & Banner Design  
-- Branding  
-- Typography  
-- Layout Design  
+- 🎨 Social Media Design  
+- 🖼 Poster & Banner Design  
+- 🏷 Branding  
+- 🔤 Typography  
+- 📐 Layout Design  
 
+---
 
 ## 📊 Data & Analytics
 
-- Python  
-- SQL  
-- Pandas  
-- NumPy  
-- Matplotlib  
-- Excel  
-- Data Visualization  
-- Data Cleaning  
+- 🐍 Python  
+- 💾 SQL  
+- 🐼 Pandas  
+- 🔢 NumPy  
+- 📊 Matplotlib  
+- 📈 Excel  
+- 🖌 Data Visualization  
+- 🧹 Data Cleaning  
 
+---
 
 ## 🔥 GitHub Streak
 
@@ -63,7 +69,7 @@ build responsive websites, and analyze data to discover meaningful insights.
   <img src="https://streak-stats.demolab.com?user=hananehmojadadi&theme=tokyonight" />
 </p>
 
-<hr style="border: 0.5px solid #ccc" />
+---
 
 ## 🚀 2026 Goals
 
@@ -71,6 +77,7 @@ build responsive websites, and analyze data to discover meaningful insights.
 ✨ Master Data Analysis  
 ✨ Contribute to Open Source  
 
+---
 
 ## 📫 Connect With Me
 
@@ -93,7 +100,6 @@ build responsive websites, and analyze data to discover meaningful insights.
   <br>
   ✉️ <a href="mailto:hananah2003@gmail.com">hananah2003@gmail.com</a>
 </p>
-
 
 <p align="center">
   💜 Thanks for visiting my profile 💜
