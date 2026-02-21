@@ -104,7 +104,6 @@ build responsive websites, and analyze data to discover meaningful insights.
   ✉️ <a href="mailto:hananah2003@gmail.com">hananah2003@gmail.com</a>
 </p>
 
-<hr style="border: 0.5px solid #ccc" />
 
 <p align="center">
   💜 Thanks for visiting my profile 💜
