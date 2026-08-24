@@ -19,7 +19,6 @@ building modern, responsive, and user-friendly digital experiences.
 - Computer Science Student
 - Front-End Developer
 - UX/UI & Graphic Designer
-- Currently expanding my skills in Data Analysis
 
 I enjoy combining **design, technology, and problem-solving** to create
 clean interfaces and meaningful web experiences.
@@ -62,7 +61,6 @@ clean interfaces and meaningful web experiences.
   </a>
 </p>
 
----
 
 <p align="center">
   Thanks for visiting my profile.
