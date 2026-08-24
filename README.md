@@ -48,20 +48,5 @@ clean interfaces and meaningful web experiences.
 </p>
 
 <p align="center">
-  <a href="https://hananehportfolio.netlify.app/">
-    Portfolio
-  </a>
-  &nbsp; | &nbsp;
-  <a href="https://www.linkedin.com/in/hananeh-mojadadi-455b44344">
-    LinkedIn
-  </a>
-  &nbsp; | &nbsp;
-  <a href="https://github.com/hananehmojadadi">
-    GitHub
-  </a>
-</p>
-
-
-<p align="center">
   Thanks for visiting my profile.
 </p>
