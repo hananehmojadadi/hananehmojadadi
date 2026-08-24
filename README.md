@@ -10,7 +10,6 @@
   <img src="https://komarev.com/ghpvc/?username=hananehmojadadi&label=Profile%20Views&color=7F00FF&style=flat" />
 </p>
 
----
 
 ## About Me
 
@@ -25,7 +24,6 @@ building modern, responsive, and user-friendly digital experiences.
 I enjoy combining **design, technology, and problem-solving** to create
 clean interfaces and meaningful web experiences.
 
----
 
 ## Tech Stack
 
@@ -33,7 +31,6 @@ clean interfaces and meaningful web experiences.
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,python,mongodb,mysql,git,github,figma" />
 </p>
 
----
 
 ## Connect With Me
 
